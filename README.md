@@ -10,5 +10,5 @@
 - 💬 Ask me about Kotlin, Java and Android.
 - 📫 How to reach me: https://linktr.ee/heismanish
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I attract bugs🐞
+
 
