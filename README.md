@@ -5,11 +5,12 @@
 
 
 - 😄 Pronouns: He/Him
-- 🔭 I’m currently Building Projects on Android in Kotlin and Practicing DSA in Java.
-- 🌱 I’m currently learning Android Development, DSA and DevOps.
+- 🔭 I’m currently Learning FrontEnd and Practicing DSA in Java.
+- 🌱 I’m currently learning FrontEnd and DSA.
+- 🧭 Exploring DevRel.
 - 👯 I’m looking to collaborate on Twitter spaces.
-- 🤔 I’m looking for help in finding beginner friendly Android Open Source Projects.
-- 💬 Ask me about Kotlin, Java and Android.
+- 🤔 I’m looking for help in finding beginner friendly Open Source Projects.
+- 💬 Ask me about FrontEnd, Java and Android.
 - 📫 How to reach me: https://linktr.ee/heismanish
 
 
