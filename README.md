@@ -33,4 +33,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=heismanish&show_icons=true&locale=en&layout=compact" alt="heismanish" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heismanish&show_icons=true&locale=en" alt="heismanish" /></p>
-![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
+
+   ![Snake animation](https://github.com/Heismanish/Heismanish/blob/output/github-contribution-grid-snake.svg)
