@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Manish Kumar Gupta</h1>
-<h3 align="center">A CS Student making his way in Development documenting his learnings.</h3>
+<h3 align="center">A CS Student making his way in Development while documenting his learnings.</h3>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/_heismanish?label=Follow)](https://twitter.com/intent/follow?screen_name=_heismanish)
 [![Linkedin: Manish](https://img.shields.io/badge/-Manish-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manish-kumar-gupta-47878320b/)](https://www.linkedin.com/in/manish-kumar-gupta-47878320b/)
