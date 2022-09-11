@@ -12,7 +12,7 @@
 
 - 😄 Pronouns: He/Him 
 - 🌱 I’m currently Learning FrontEnd and Practicing DSA in Java.
-- 🧭 Exploring DevRel.
+- 🧭 Exploring Frontend and DevRel.
 - 👯 I’m looking to collaborate on Twitter spaces.
 - 🤔 I’m looking for help in finding beginner friendly Open Source Projects.
 - 💬 Ask me about Kotlin, Java and Android.
