@@ -8,8 +8,10 @@
 ---
 
 <!--gif-->
+
 <p>&nbsp</p>
-<p><img align=right src="https://octodex.github.com/images/Fintechtocat.png" alt="drawing" width="240" /></p>
+
+<p><img align="right" src="https://octodex.github.com/images/Fintechtocat.png" alt="drawing" width="240" /></p>
 
 <!-- Twitter button-->
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/_heismanish.svg?style=social&label=Follow%20%40_heismanish)](https://twitter.com/_heismanish)
@@ -33,14 +35,13 @@
 
 <p>&nbsp</p>
 <!-- Github-stats -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Heismanish&show_icons=true&theme=tokyonight"       
-        alt="heismanish" width="48%" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Heismanish&show_icons=true&theme=tokyonight"        alt="heismanish" width="450"/></p>
        
 <!-- language stats        -->
-<!--  <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heismanish&theme=onedark&layout=compact" alt="heismanish" width="47%"/></p> -->
+<!--  <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heismanish&theme=onedark&layout=compact" alt="heismanish" width="45%"/></p> -->
 
 <!-- streak stats -->
 <!-- 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Heismanish&theme=tokyonight&border_radius=5)](https://git.io/streak-stats) -->
 
-<p><img align="right" src="https://streak-stats.demolab.com?user=Heismanish&theme=tokyonight&border_radius=5" alt="heismanish" width="47%"/></p>
+<p><img align="right" src="https://streak-stats.demolab.com?user=Heismanish&theme=tokyonight&border_radius=5" alt="heismanish" width="450"/></p>
