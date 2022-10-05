@@ -36,7 +36,7 @@
 
 <p>&nbsp</p>
 <!-- Github-stats -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Heismanish&show_icons=true&theme=tokyonight"        alt="heismanish" width="450"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Heismanish&show_icons=true&theme=tokyonight"        alt="heismanish" width="45%"/></p>
        
 <!-- language stats        -->
 <!--  <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heismanish&theme=onedark&layout=compact" alt="heismanish" width="45%"/></p> -->
@@ -45,4 +45,4 @@
 <!-- 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Heismanish&theme=tokyonight&border_radius=5)](https://git.io/streak-stats) -->
 
-<p><img align="right" src="https://streak-stats.demolab.com?user=Heismanish&theme=tokyonight&border_radius=5" alt="heismanish" width="450"/></p>
+<p><img align="right" src="https://streak-stats.demolab.com?user=Heismanish&theme=tokyonight&border_radius=5" alt="heismanish" width="45%"/></p>
