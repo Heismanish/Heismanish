@@ -1,5 +1,7 @@
 <h1 align=center> Hi 👋, I'm Manish!</h1>
-<h3 align=center> A geek making his way in tech while documenting his learnings.</h3>
+<p>&nbsp</p>
+<h3 align=center> <b> A geek making his way in tech while documenting his learnings.</b> </h3>
+<p>&nbsp</p>
 
 ![Banner](@Heismanish.png)
 
@@ -21,16 +23,24 @@
   <li>👯 I’m looking to collaborate in open source projects.</li>
   <li> 📫 Let's connect <a href= "https://linktr.ee/heismanish">here.</a> </li>
   <p>&nbsp</p>
-  <p>&nbsp</p>
+
 </p>
 
 
 ---
 
 <!--widgets-->
+
 <p>&nbsp</p>
+<!-- Github-stats -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Heismanish&show_icons=true&theme=tokyonight"       
         alt="heismanish" width="48%" /></p>
-        
- <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heismanish&theme=onedark&layout=compact" alt="heismanish" width="47%"/></p>
+       
+<!-- language stats        -->
+<!--  <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heismanish&theme=onedark&layout=compact" alt="heismanish" width="47%"/></p> -->
 
+<!-- streak stats -->
+<!-- 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Heismanish&theme=tokyonight&border_radius=5)](https://git.io/streak-stats) -->
+
+<p><img align="right" src="https://streak-stats.demolab.com?user=Heismanish&theme=tokyonight&border_radius=5" alt="heismanish" width="47%"/></p>
