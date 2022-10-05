@@ -1,24 +1,36 @@
-# Hi 👋, I'm Manish!
-## A geek making his way in tech while documenting his learnings.
+<h1 align=center> Hi 👋, I'm Manish!</h1>
+<h3 align=center> A geek making his way in tech while documenting his learnings.</h3>
 
 ![Banner](@Heismanish.png)
 
 ---
 
-![gif](NUX_Octodex.gif)
+<!--gif-->
+<p>&nbsp</p>
+<p><img align=right src="https://octodex.github.com/images/Fintechtocat.png" alt="drawing" width="240" /></p>
 
-- 😄 Pronouns: He/Him
-- 🌱 I’m currently learning FrontEnd and Linux.
-- 🫰 An open source enthusiast.
-- 🧭 Exploring DevOps and DevRel.
-- 👯 I’m looking to collaborate in open source projects.
-- 📫 How to reach me: https://linktr.ee/heismanish
+<!-- Twitter button-->
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/_heismanish.svg?style=social&label=Follow%20%40_heismanish)](https://twitter.com/_heismanish)
+
+<!--About-->
+<p align=left>
+  <li> 😄 Pronouns: He/Him </li>
+  <li> 🌱 I’m currently learning FrontEnd and Linux.</li>
+  <li>🫰 An open source enthusiast.</li>
+  <li>🧭 Exploring DevOps and DevRel.</li>
+  <li>👯 I’m looking to collaborate in open source projects.</li>
+  <li> 📫 Let's connect <a href= "https://linktr.ee/heismanish">here.</a> </li>
+  <p>&nbsp</p>
+  <p>&nbsp</p>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=heismanish&show_icons=true&locale=en&layout=compact" alt="heismanish" width="40%" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=heismanish&show_icons=true&locale=en" alt="heismanish" width="40%"/></p>
+---
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/_heismanish?label=Follow)](https://twitter.com/intent/follow?screen_name=_heismanish)
-[![Linkedin: Manish](https://img.shields.io/badge/-Manish-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manish-kumar-gupta-47878320b/)](https://www.linkedin.com/in/manish-kumar-gupta-47878320b/)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=heismanish&label=Profile%20views&color=0e75b6&style=flat" alt="heismanish" /> </p>
+<!--widgets-->
+<p>&nbsp</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Heismanish&show_icons=true&theme=tokyonight"       
+        alt="heismanish" width="48%" /></p>
+        
+ <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heismanish&theme=onedark&layout=compact" alt="heismanish" width="47%"/></p>
+
