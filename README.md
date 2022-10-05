@@ -11,7 +11,8 @@
 
 <p>&nbsp</p>
 
-<p><img align="right" src="https://octodex.github.com/images/Fintechtocat.png" alt="drawing" width="240" /></p>
+<p><img align="right" src="https://octodex.github.com/images/Professortocat_v2.png" alt="drawing" width="240" /></p>
+
 
 <!-- Twitter button-->
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/_heismanish.svg?style=social&label=Follow%20%40_heismanish)](https://twitter.com/_heismanish)
