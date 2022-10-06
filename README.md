@@ -1,9 +1,10 @@
 <h1 align=center> Hi 👋, I'm Manish!</h1>
-<p>&nbsp</p>
-<h3 align=center> <b> A geek making his way in tech while documenting his learnings.</b> </h3>
+
 <p>&nbsp</p>
 
-![Banner](@Heismanish.png)
+<h3 align=center> <b> A geek making his way in tech while documenting his learnings.</b> </h3>
+
+![Banner](@Heismanish (2).png)
 
 ---
 
