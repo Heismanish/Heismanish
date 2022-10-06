@@ -4,7 +4,7 @@
 
 <h3 align=center> <b> A geek making his way in tech while documenting his learnings.</b> </h3>
 
-![Banner](@Heismanish (2).png)
+![Banner](@Heismanish.png)
 
 ---
 
