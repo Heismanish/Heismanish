@@ -15,8 +15,10 @@
 <p><img align="right" src="https://octodex.github.com/images/Professortocat_v2.png" alt="drawing" width="240" /></p>
 
 
-<!-- Twitter button-->
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/_heismanish.svg?style=social&label=Follow%20%40_heismanish)](https://twitter.com/_heismanish)
+<!-- Links -->
+[![Twitter Badge](https://img.shields.io/badge/-_heismanish-lightblue?style=flat-square&logo=Twitter&logoColor=blue&link=https://twitter.com/_heismanish)](https://twitter.com/_heismanish)
+[![Gmail Badge](https://img.shields.io/badge/-manishgu231@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:manishgu231@gmail.com)](mailto:manishgu231@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-ManishKumarGupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manish-kumar-gupta-47878320b/)](https://www.linkedin.com/in/manish-kumar-gupta-47878320b/)
 
 <!--About-->
 <p align=left>
@@ -47,3 +49,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=Heismanish&theme=tokyonight&border_radius=5)](https://git.io/streak-stats) -->
 
 <p><img align="right" src="https://streak-stats.demolab.com?user=Heismanish&theme=tokyonight&border_radius=5" alt="heismanish" width="45%"/></p>
+
+<p>&nbsp</p>
+
