@@ -22,11 +22,12 @@
 
 <!--About-->
 <p align=left>
-  <li> 😄 Pronouns: He/Him </li>
-  <li> 🌱 I’m currently learning FrontEnd.</li>
+
+  <li> 🌱 I’m currently learning WebDev(MERN).</li>
+  <li> 📱: Into Andorid Development and technical writing.</li>
   <li> 🫰 An open source enthusiast.</li>
-  <li> 🧭 Exploring DevRel.</li>
-  <li> 👯 I’m looking to collaborate in open source projects.</li>
+  <li> 🧭 Exploring Linux.</li>
+  <li> 👯 I’m looking to collaborate in open source projects and hackathons.</li>
   <li> <a href= "https://linktr.ee/heismanish">📫 Let's connect.</a> </li>
   <p>&nbsp</p>
 
