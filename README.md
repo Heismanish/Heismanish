@@ -22,12 +22,12 @@
 
 <!--About-->
 <p align=left>
-
-  <li> 🌱 I’m currently learning WebDev(MERN).</li>
-  <li> 📱: Into Andorid Development and technical writing.</li>
+  <h3>Hey there peeps!! I'm:</h3>
+  <li> 🌱 Currently learning WebDev(MERN).</li>
+  <li> 📱 Into Andorid Development and technical writing.</li>
   <li> 🫰 An open source enthusiast.</li>
   <li> 🧭 Exploring Linux.</li>
-  <li> 👯 I’m looking to collaborate in open source projects and hackathons.</li>
+  <li> 👯 Looking to collaborate on open source projects and hackathons.</li>
   <li> <a href= "https://linktr.ee/heismanish">📫 Let's connect.</a> </li>
   <p>&nbsp</p>
 
