@@ -23,11 +23,11 @@
 <!--About-->
 <p align=left>
   <h3>Hey there peeps!! I'm:</h3>
-  <li> 🌱 Currently learning WebDev(MERN).</li>
-  <li> 📱 Into Andorid Development and technical writing.</li>
+  <li> 🌱 A MERN stack web developer.</li>
+  <li> 🛠️ Currently Building cool projects!.</li>
   <li> 🫰 An open source enthusiast.</li>
-  <li> 🧭 Exploring Linux.</li>
-  <li> 👯 Looking to collaborate on open source projects and hackathons.</li>
+  <li> 💻 A Linux user...which OS do you use btw?..</li>
+  <li> 🤝 Looking to collaborate on open source projects and hackathons.</li>
   <li> <a href= "https://linktr.ee/heismanish">📫 Let's connect.</a> </li>
   <p>&nbsp</p>
 
@@ -36,47 +36,34 @@
 ## ⚡ Technologies
 
 ### Language :
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=openjdk)
-![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-<!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript) -->
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
 <!-- ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) -->
-<!-- ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c) -->
 
+### Database :
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Libraries & Framework :
 
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwindcss)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-<!-- <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
-![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
-![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-<a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a>
-<a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design%20-%230081CB.svg?logo=material-design&logoColor=white"></a>
-<a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
-<a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a> -->
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
 ### Tools:
 
-<a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Git](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
-<!-- <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a> -->
-<!-- ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean) -->
-<!-- ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws) -->
-<!-- ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure) -->
-<!-- ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) -->
-<!-- <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a> -->
-<!-- <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel%20-%23000000.svg?logo=vercel&logoColor=white"></a> -->
-
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/-GIT-black?style=flat-square&logo=git)
+![Git](https://img.shields.io/badge/-LINUX-black?style=flat-square&logo=linux)
+![Git](https://img.shields.io/badge/-FIREBASE-black?style=flat-square&logo=firebase)
+![Vercel](https://img.shields.io/badge/VERCEL%20-%23000000.svg?logo=vercel&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 ---
 
@@ -86,9 +73,6 @@
 <!-- Github-stats -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Heismanish&show_icons=true&theme=tokyonight"        alt="heismanish" width="45%"/></p>
        
-<!-- language stats        -->
-<!--  <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heismanish&theme=onedark&layout=compact" alt="heismanish" width="45%"/></p> -->
-
 <!-- streak stats -->
 <!-- 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Heismanish&theme=tokyonight&border_radius=5)](https://git.io/streak-stats) -->
