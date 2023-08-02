@@ -22,13 +22,13 @@
 
 <!--About-->
 <p align=left>
-  <h3>Hey there peeps!! I'm:</h3>
-  <li> 🌱 A MERN stack web developer.</li>
-  <li> 🛠️ Currently Building cool projects!.</li>
-  <li> 🫰 An open source enthusiast.</li>
-  <li> 💻 A Linux user...which OS do you use btw?..</li>
-  <li> 🤝 Looking to collaborate on open source projects and hackathons.</li>
-  <li> <a href= "https://linktr.ee/heismanish">📫 Let's connect.</a> </li>
+  <h3> <u>Hey there peeps!!</u> </h3>
+<p> I'm Manish 👋, an IT undergrad exploring Front-end web development and the world of open source projects. I love learning by doing and have a keen interest in Linux and DevOps. When I'm not coding, you'll find me enjoying my favorite anime. Welcome to my portfolio, where I turn ideas into reality! Let's build amazing things together! 🚀</p>
+ <a href= "https://linktr.ee/heismanish">📫 Let's connect.</a> 
+ <h3>👉
+ <a href= "https://linktr.ee/heismanish" >My Portfolio</a> 
+ </h1>
+  
   <p>&nbsp</p>
 
 </p>
