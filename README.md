@@ -1,32 +1,31 @@
-<h1 align=center> Hi 👋, I'm Manish!</h1>
+<h1 align="center"> Hi 👋, I'm Manish!</h1>
 
-<p>&nbsp</p>
 
-<h3 align=center> <b> A geek making his way in tech while documenting his learnings.</b> </h3>
+<h3 align="center"><b>A tech enthusiast exploring the digital realm, one bug at a time.</b></h3>
 
-![Banner](@Heismanish.png)
+![Banner](@Heismanish(2).png)
 
 ---
 
-<!--gif-->
 
-<p>&nbsp</p>
+<div align="center">
 
-<p><img align="right" src="https://octodex.github.com/images/Professortocat_v2.png" alt="drawing" width="240" /></p>
 
-<!--About-->
-<p align=left>
-  <h3> <u>Hey there peeps!!</u> </h3>
-<p> I'm Manish 👋, an IT undergrad exploring Front-end web development and the world of open source projects. I love learning by doing and have a keen interest in Linux and DevOps. When I'm not coding, you'll find me enjoying my favorite anime. Welcome to my portfolio, where I turn ideas into reality! Let's build amazing things together! 🚀</p>
- <a href= "https://linktr.ee/heismanish">📫 Let's connect.</a> 
- <h3>👉
- <a href= "https://portfolio-blue-two-14.vercel.app/" >My Portfolio</a> 
- </h1>
+  <span> I'm a web developer with a passion for unraveling tech mysteries. When I'm not chasing down bugs, I'm exploring the captivating world of anime. Join me on my digital adventures and check out my tech blogs on Hashnode!</span>
+      
+  <details >	
+    <summary><b>💁 About Me</b></summary>
+      <p>
+      An IT undergrad and a curious soul on a quest to unravel the mysteries of the tech universe. With a trusty toolkit that includes HTML5, CSS3, JavaScript, React.js, Node.js, and more, I navigate through the digital terrain. But here's the twist    I'm not just a tech enthusiast; I'm also an <strong>error explorer 🔍</strong>. When I'm not chasing down bugs, you'll find me immersing in my favorite anime world 💙. Let's join forces to turn ideas into digital adventures! 🚀🕵️‍♂️
+         
+  </p>
+       
+</details>
 
-  <p>&nbsp</p>
-
-</p>
-
+<p>👉 <a href="https://portfolio-blue-two-14.vercel.app/">My Portfolio</a></p>
+<a href="https://linktr.ee/heismanish">📫 Let's connect.</a>
+      </div>
+<p>&nbsp;</p>
 
 ## ⚡ Tech Stack
 
@@ -48,13 +47,23 @@
 ![Git](https://img.shields.io/badge/-FIREBASE-black?style=flat-square&logo=firebase)
 ![Vercel](https://img.shields.io/badge/VERCEL%20-%23000000.svg?logo=vercel&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-<!-- ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) -->
+<p>&nbsp;</p>
+
+
+## 📖 Latest blog posts
+
+- [Understanding reconciliation in JS](https://heismanish.hashnode.dev/understanding-reconciliation-in-js)
+- [Discovering the magic behind React](https://heismanish.hashnode.dev/discovering-the-magic-behind-react)
+- [Unveiling CRUD operations in React with Fetch API](https://heismanish.hashnode.dev/unveiling-crud-operations-in-react-with-fetch-api)
+- [React Hooks Simplified](https://heismanish.hashnode.dev/react-hooks-simplified)
+<p>&nbsp;</p>
 
 ---
 
 <!--widgets-->
 
-<p>&nbsp</p>
+<p>&nbsp;</p>
+
 <!-- Github-stats -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Heismanish&show_icons=true&theme=tokyonight"        alt="heismanish" width="45%"/></p>
        
@@ -63,6 +72,4 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=Heismanish&theme=tokyonight&border_radius=5)](https://git.io/streak-stats) -->
 
 <p><img align="right" src="https://streak-stats.demolab.com?user=Heismanish&theme=tokyonight&border_radius=5" alt="heismanish" width="45%"/></p>
-
-<p>&nbsp</p>
 
