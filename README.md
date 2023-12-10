@@ -13,7 +13,6 @@ I'm an IT undergrad who build for web 🕸️ <br> <strong> Next.js, TypeScript,
 <p>&nbsp;</p>
 
 <p>👉 <a href="https://portfolio-blue-two-14.vercel.app/">My Portfolio</a></p>
-<a href="https://linktr.ee/heismanish">📫 Let's connect.</a>
       </div>
 <!--
 ## ⚡ Tech Stack
