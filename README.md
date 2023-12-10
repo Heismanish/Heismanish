@@ -15,9 +15,10 @@ I'm an IT undergrad who build for web 🕸️ <br> <strong> Next.js, TypeScript,
 <p>👉 <a href="https://portfolio-blue-two-14.vercel.app/">My Portfolio</a></p>
 <a href="https://linktr.ee/heismanish">📫 Let's connect.</a>
       </div>
-
+<!--
 ## ⚡ Tech Stack
-
+-->
+<!--
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -36,7 +37,7 @@ I'm an IT undergrad who build for web 🕸️ <br> <strong> Next.js, TypeScript,
 ![Vercel](https://img.shields.io/badge/VERCEL%20-%23000000.svg?logo=vercel&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 <p>&nbsp;</p>
-
+-->
 
 ## 📖 Latest blog posts
 - [Building a Real-Time Chat Application with WebSockets 🚀](https://heismanish.hashnode.dev/building-a-real-time-chat-application-with-websockets)
@@ -45,20 +46,18 @@ I'm an IT undergrad who build for web 🕸️ <br> <strong> Next.js, TypeScript,
 - [Understanding reconciliation in JS](https://heismanish.hashnode.dev/understanding-reconciliation-in-js)
 - [Discovering the magic behind React](https://heismanish.hashnode.dev/discovering-the-magic-behind-react)
 
-<p>&nbsp;</p>
 
----
+
+
 
 <!--widgets-->
 
-<p>&nbsp;</p>
-
 <!-- Github-stats -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Heismanish&show_icons=true&theme=tokyonight"        alt="heismanish" width="45%"/></p>
+<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Heismanish&show_icons=true&theme=tokyonight"        alt="heismanish" width="45%"/></p>  -->
        
 <!-- streak stats -->
 <!-- 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Heismanish&theme=tokyonight&border_radius=5)](https://git.io/streak-stats) -->
 
-<p><img align="right" src="https://streak-stats.demolab.com?user=Heismanish&theme=tokyonight&border_radius=5" alt="heismanish" width="45%"/></p>
+<!--<p><img align="right" src="https://streak-stats.demolab.com?user=Heismanish&theme=tokyonight&border_radius=5" alt="heismanish" width="45%"/></p>-->
 
