@@ -19,7 +19,9 @@
 
    <p><strong> My Tech Stack </strong></p>
        
-     NextJS, TypeScript, ReactJS, NodeJS, ExpressJS, Golang, Docker and AWS
+```
+   NextJS, TypeScript, ReactJS, NodeJS, ExpressJS, Golang, Docker and AWS
+```
 <br>
 
 </div>
