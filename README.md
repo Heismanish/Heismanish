@@ -18,13 +18,11 @@
 [website]: https://portfolio-blue-two-14.vercel.app/
 
    <p><strong> My Tech Stack </strong></p>
-       
-```shell
-   NextJS, TypeScript, Golang,,ReactJS, NodeJS, ExpressJS, Javascript, Java, Docker and AWS
-```
-<br>
-
 </div>
+
+```shell
+   NextJS, TypeScript, Golang,,ReactJS, NodeJS, ExpressJS, Javascript, Java, Docker, Digital_Ocean and AWS
+```
 
 <!--
 #### Extras
