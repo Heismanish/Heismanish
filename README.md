@@ -48,6 +48,11 @@ I'm an IT undergrad who build for web 🕸️ <br> <strong> Next.js, TypeScript,
 
 ## Hashnode Blog Post
 <!-- HASHNODE:START -->
+- [Building a Real-Time Chat Application with WebSockets 🚀](https://heismanish.hashnode.dev/building-a-real-time-chat-application-with-websockets)
+- [Exploring the World of WebSockets: Real-Time, Full-Duplex Communication! 🚀](https://heismanish.hashnode.dev/exploring-the-world-of-websockets-real-time-full-duplex-communication)
+- [TypeScript File Handling with Express.js: A Comprehensive Guide](https://heismanish.hashnode.dev/typescript-file-handling-with-expressjs-a-comprehensive-guide)
+- [Authentication Using ExpressJS](https://heismanish.hashnode.dev/authentication-using-expressjs)
+- [Understanding reconciliation in JS](https://heismanish.hashnode.dev/understanding-reconciliation-in-js)
 <!-- HASHNODE:END -->
 
 
