@@ -46,6 +46,10 @@ I'm an IT undergrad who build for web 🕸️ <br> <strong> Next.js, TypeScript,
 - [Discovering the magic behind React](https://heismanish.hashnode.dev/discovering-the-magic-behind-react)
 
 
+## Hashnode Blog Post
+<!-- HASHNODE:START -->
+<!-- HASHNODE:END -->
+
 
 
 
