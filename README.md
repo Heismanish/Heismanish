@@ -7,23 +7,20 @@
 <div align="center">
 
 
-   <h4>
-     I&apos;m an IT undergrad who build mostly for and around web, and I write tech blogs on <a href="https://heismanish.hashnode.dev/" target="blank">hashnode</a> 
-     
-  </h4>
+   <h5>
+     I&apos;m an IT undergrad who build mostly for and around web, and I write blogs on <a href="https://heismanish.hashnode.dev/" target="blank">hashnode</a> 
+  </h5>
+  <h4>Connect with me</h4>
+  
+  [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/_heismanish.svg?style=social&label=Follow%20%40_heismanish)](https://twitter.com/_heismanish)
+  [![Portfolio](http://img.shields.io/badge/-Portfolio%20Website-ffffff?style=flat&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8%2F9hAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAAdgAAAHYBTnsmCAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAEYSURBVDiNxdHNK4RRFMfxzzMzhVJeirKwIZKVyG4WY22nrCwoG%2FkHbGYzO%2FkfLKysZSHFgmxtKCJkNTLEyEtZTGPx3KnpaWSS8q3bOffcc37ndC7%2FTYRldKKCdMJ%2Bxwbm8QJ57GMOV5jFaRD5iXyEHZzjCb24D7bYhEAugwOsNpHciCiNa7wlHiYTE%2FSggHEM4CTEsynxMmAME8GfRg6D4f6Kh%2BDf1HdKBTsaio4xhAscYhH96K4Ty2IF64hqAo%2FoQitmsIV2tKCMEs7QFk4ae6jWBEpYwzAy%2BAh%2BIYzfh6nQoBUj2BSUsjjCe5jkUrzUIj7rdvAs%2Fuo7bIu%2F%2BzYTOtaohIQkVew2iC9EWEJHg8dmKP%2By7g%2F5Ahl%2FO9wcY8OAAAAAAElFTkSuQmCC&logoColor=white)][website]
 
+[website]: https://portfolio-blue-two-14.vercel.app/
+
+   <p><strong> My Tech Stack </strong></p>
+       
+     NextJS, TypeScript, ReactJS, NodeJS, ExpressJS, Golang, Docker and AWS
 <br>
-
-<!-- <h3 align="center">Connect with me </h3>
-![Twitter](https://img.shields.io/badge/Twitter-fff?style=for-the-badge&logo=twitter&logoColor=black)
- -->
- 
-```shell
- 🔻 My Tech Stack 🔻
-
-  NextJS, TypeScript, ReactJS, NodeJS, ExpressJS, Golang, Docker and AWS 
-```
-<p><a href="https://portfolio-blue-two-14.vercel.app/"> Portfolio </a></p>
 
 </div>
 
