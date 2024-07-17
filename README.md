@@ -10,6 +10,7 @@
    <h5>
      I&apos;m an IT undergrad who build mostly for and around web, and I write blogs on <a href="https://heismanish.hashnode.dev/" target="blank">hashnode</a> 
   </h5>
+  
   <h4>Connect with me</h4>
   
   [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/_heismanish.svg?style=social&label=Follow%20%40_heismanish)](https://twitter.com/_heismanish)
@@ -20,9 +21,9 @@
    <p><strong> My Tech Stack </strong></p>
 </div>
 
-```shell
-   NextJS, TypeScript, Golang,,ReactJS, NodeJS, ExpressJS, Javascript, Java, Docker, Digital_Ocean and AWS
-```
+<h4 align="center" >
+   NextJS || Typescript || MERN || SQL || Docker || AWS || Kubernetes || Java || GoLang
+</h3>
 
 <!--
 #### Extras
