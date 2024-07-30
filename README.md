@@ -53,11 +53,11 @@
 
 ## Hashnode Blog Post
 <!-- HASHNODE:START -->
+- [Changing Fonts in Next.js](https://heismanish.hashnode.dev/changing-fonts-in-nextjs)
 - [Why NextAuth uses cookies??](https://heismanish.hashnode.dev/why-nextauth-uses-cookies)
 - [Understanding CSRF Attacks and Prevention](https://heismanish.hashnode.dev/understanding-csrf-attacks-and-prevention)
 - [Understanding Cookies in Web Development](https://heismanish.hashnode.dev/understanding-cookies-in-web-development)
 - [Building a Real-Time Chat Application with WebSockets 🚀](https://heismanish.hashnode.dev/building-a-real-time-chat-application-with-websockets)
-- [Exploring the World of WebSockets: Real-Time, Full-Duplex Communication! 🚀](https://heismanish.hashnode.dev/exploring-the-world-of-websockets-real-time-full-duplex-communication)
 <!-- HASHNODE:END -->
 
 
