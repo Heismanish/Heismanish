@@ -22,7 +22,7 @@
 </div>
 
 <h4 align="center" >
-   NextJS || Typescript || MERN || SQL || Docker || AWS || Kubernetes || Java || GoLang
+   NextJS || Typescript || MERN || SQL || Docker || AWS || Java || GoLang
 </h3>
 
 <!--
